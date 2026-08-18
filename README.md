@@ -17,13 +17,13 @@ your idea  →  Claude plans & prompts  →  the right generator  →  verified 
 
 ## 📖 Read the guides
 
-This repo is the companion code for a series of written tutorials on [**learnwithhasan.com**](https://learnwithhasan.com) that walk through how each piece was built:
+This repo is the companion code for a series of written tutorials on [**learnwithhasan.com**](https://learnwithhasan.com/?utm_source=github&utm_medium=readme&utm_campaign=claude-image-generation&utm_content=body) that walk through how each piece was built:
 
 | Guide | Covers |
 |-------|--------|
-| [Generate images in Claude Code with **no AI model**](https://learnwithhasan.com/guide/claude-code-images-no-ai-model/) | **Levels 1 & 2** — the code-based design engine and the Three.js 3D renderer |
-| [**Free AI images** with Claude Code + **Cloudflare**](https://learnwithhasan.com/guide/free-ai-images-claude-code-cloudflare/) | **Level 3** — the Cloudflare Workers AI (Flux) diffusion model |
-| [**Consistent AI characters** for visual stories](https://learnwithhasan.com/guide/consistent-ai-characters-visual-stories/) | **The Storybook pipeline** — keeping characters stable across every scene |
+| [Generate images in Claude Code with **no AI model**](https://learnwithhasan.com/guide/claude-code-images-no-ai-model/?utm_source=github&utm_medium=readme&utm_campaign=claude-image-generation&utm_content=body) | **Levels 1 & 2** — the code-based design engine and the Three.js 3D renderer |
+| [**Free AI images** with Claude Code + **Cloudflare**](https://learnwithhasan.com/guide/free-ai-images-claude-code-cloudflare/?utm_source=github&utm_medium=readme&utm_campaign=claude-image-generation&utm_content=body) | **Level 3** — the Cloudflare Workers AI (Flux) diffusion model |
+| [**Consistent AI characters** for visual stories](https://learnwithhasan.com/guide/consistent-ai-characters-visual-stories/?utm_source=github&utm_medium=readme&utm_campaign=claude-image-generation&utm_content=body) | **The Storybook pipeline** — keeping characters stable across every scene |
 
 ## Two things this repo teaches
 
@@ -44,7 +44,7 @@ The three level skills all answer "make me an image," but trade off cost, realis
 
 > **Why levels?** Levels 1 and 2 never touch an image model — they *construct* the picture from code, so they're free, deterministic, and perfect at text and geometry. Level 3 is the "classic" approach: hand a prompt to a diffusion model. Different jobs want different levels.
 >
-> 📖 Guides: [no-AI-model images (Levels 1 & 2)](https://learnwithhasan.com/guide/claude-code-images-no-ai-model/) · [free Cloudflare images (Level 3)](https://learnwithhasan.com/guide/free-ai-images-claude-code-cloudflare/)
+> 📖 Guides: [no-AI-model images (Levels 1 & 2)](https://learnwithhasan.com/guide/claude-code-images-no-ai-model/?utm_source=github&utm_medium=readme&utm_campaign=claude-image-generation&utm_content=body) · [free Cloudflare images (Level 3)](https://learnwithhasan.com/guide/free-ai-images-claude-code-cloudflare/?utm_source=github&utm_medium=readme&utm_campaign=claude-image-generation&utm_content=body)
 
 ### Level 1 — the code-based design engine
 
@@ -94,7 +94,7 @@ Building on the image skills, this is a small **application**: give it an Englis
 </p>
 <p align="center"><em>Consistent, character-stable illustrations across every scene of <b>“The Three Gardeners.”</b></em></p>
 
-> 📖 Guide: [Consistent AI characters for visual stories](https://learnwithhasan.com/guide/consistent-ai-characters-visual-stories/) — how the illustrator keeps characters stable across scenes.
+> 📖 Guide: [Consistent AI characters for visual stories](https://learnwithhasan.com/guide/consistent-ai-characters-visual-stories/?utm_source=github&utm_medium=readme&utm_campaign=claude-image-generation&utm_content=body) — how the illustrator keeps characters stable across scenes.
 
 ```
 stories/{slug}.md
@@ -236,7 +236,7 @@ The fonts bundled in [`level-1-image-generator/fonts/`](.claude/skills/level-1-i
 
 ---
 
-Built by [Hasan Aboul Hasan](https://learnwithhasan.com)
+Built by [Hasan Aboul Hasan](https://learnwithhasan.com/?utm_source=github&utm_medium=readme&utm_campaign=claude-image-generation&utm_content=body)
 
 <!-- lwh-footer -->
 
@@ -246,12 +246,12 @@ Built by [Hasan Aboul Hasan](https://learnwithhasan.com)
 
 This repo is one thing I built with AI. The book is the system underneath it.
 
-**[Vibe Engineering Blocks](https://learnwithhasan.com/blocks/)** is my free 74-page book.
+**[Vibe Engineering Blocks](https://learnwithhasan.com/blocks/?utm_source=github&utm_medium=readme&utm_campaign=claude-image-generation&utm_content=footer)** is my free 74-page book.
 47 building blocks for shipping real apps with AI. One block per page, each with the exact
 prompt to hand your AI.
 
-Built by **[Hasan Aboul Hasan](https://learnwithhasan.com)**. I build real products with AI and
+Built by **[Hasan Aboul Hasan](https://learnwithhasan.com/?utm_source=github&utm_medium=readme&utm_campaign=claude-image-generation&utm_content=footer)**. I build real products with AI and
 write down exactly how.
-[Guides](https://learnwithhasan.com/guides/) &nbsp;·&nbsp;
+[Guides](https://learnwithhasan.com/guides/?utm_source=github&utm_medium=readme&utm_campaign=claude-image-generation&utm_content=footer) &nbsp;·&nbsp;
 [YouTube](https://www.youtube.com/@HasanAboulHasan) &nbsp;·&nbsp;
-[Community](https://learnwithhasan.com/community/)
+[Community](https://learnwithhasan.com/community/?utm_source=github&utm_medium=readme&utm_campaign=claude-image-generation&utm_content=footer)
